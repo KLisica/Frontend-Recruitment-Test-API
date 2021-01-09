@@ -1,6 +1,6 @@
 # Frontend Recruitment Test - Express (Node.js)
 
-API with contact route built with with Express.
+API with contact route built with Express.
 
 ### Local Setup
 
