@@ -9,7 +9,7 @@ API with contact route built with Express.
 - Start the server.
 
 ```
-git clone https://github.com/KLisica/-Frontend-Recruitment-Test-API.git
+git clone https://github.com/KLisica/Frontend-Recruitment-Test-API.git
 cd Frontend-Recruitment-Test-API && npm install
 npm run dev
 ```
